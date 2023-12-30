@@ -1,6 +1,6 @@
 {
-    "name": "instagram_flutter",
-    "short_name": "instagram_flutter",
+    "name": "flutter_application_instagram",
+    "short_name": "flutter_application_instagram",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
